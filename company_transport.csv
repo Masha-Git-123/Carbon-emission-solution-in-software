@@ -1,0 +1,8 @@
+Company,Vehicle Type,Fuel Type,Trips per Month,Average Distance (km),Cargo Weight (kg),CO2 Emission per Trip (kg)
+Alpha Logistics,Truck,Diesel,120,150,5000,75
+Beta Couriers,Van,Gasoline,300,50,1000,15
+Gamma Shipping,Truck,Electric,80,200,7000,0
+Delta Transport,Van,Diesel,200,60,1200,18
+Epsilon Movers,Truck,Diesel,100,180,6000,90
+Zeta Logistics,Van,Electric,150,40,800,0
+Theta Freight,Truck,Diesel,90,250,8000,125
